@@ -1,0 +1,7 @@
+{
+  "name": "Pi Transaction Tracker",
+  "description": "Ứng dụng tự động trích xuất thông tin giao dịch từ hình ảnh Pi sang USDT và quản lý báo cáo thông minh.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

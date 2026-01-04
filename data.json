@@ -1,0 +1,15 @@
+
+[
+  {
+    "id": "sample-1",
+    "type": "Chuyển đổi PI sang USDT",
+    "status": "Đã chuyển đổi ✅",
+    "piAmount": 26.28416566,
+    "usdtAmount": 5.61671067,
+    "fee": "Không mất phí",
+    "sourceAccount": "Tài khoản Giao dịch (26,28416566 PI)",
+    "exchangeRate": "1 PI ≈ 0,2136918 USDT",
+    "timestamp": "21:53:50 – 04/01/2026",
+    "createdAt": 1767563630000
+  }
+]
